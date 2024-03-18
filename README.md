@@ -1,1 +1,1 @@
-# projeto-figma-tcc
+# projeto-tcc
